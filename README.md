@@ -49,8 +49,6 @@ Então, o que está esperando para começar a CRIAR?
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
